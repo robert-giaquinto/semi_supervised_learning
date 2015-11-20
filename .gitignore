@@ -1,0 +1,5 @@
+main.py
+*.pyc
+.idea
+*.png
+*.jpg
